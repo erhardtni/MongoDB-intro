@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "5f89e337ea2334089cade80b"
+  },
+  "month": "January",
+  "monthID": 1,
+  "year": 2020,
+  "revenue": {
+    "$numberDecimal": "3200"
+  },
+  "book_sales": {
+    "$numberDecimal": "1000"
+  },
+  "magazine_sales": {
+    "$numberDecimal": "2000"
+  },
+  "other_sales": {
+    "$numberDecimal": "200"
+  }
+},{
+  "_id": {
+    "$oid": "5f89e337ea2334089cade80c"
+  },
+  "month": "February",
+  "monthID": 2,
+  "year": 2020,
+  "revenue": {
+    "$numberDecimal": "3400"
+  },
+  "book_sales": {
+    "$numberDecimal": "1400"
+  },
+  "magazine_sales": {
+    "$numberDecimal": "1600"
+  },
+  "other_sales": {
+    "$numberDecimal": "400"
+  }
+},{
+  "_id": {
+    "$oid": "5f89e337ea2334089cade80d"
+  },
+  "month": "March",
+  "monthID": 3,
+  "year": 2020,
+  "revenue": {
+    "$numberDecimal": "2400"
+  },
+  "book_sales": {
+    "$numberDecimal": "900"
+  },
+  "magazine_sales": {
+    "$numberDecimal": "1300"
+  },
+  "other_sales": {
+    "$numberDecimal": "200"
+  }
+},{
+  "_id": {
+    "$oid": "5f8d997542e804296ce47121"
+  },
+  "month": "April",
+  "monthID": 4,
+  "year": 2020,
+  "revenue": {
+    "$numberDecimal": "3600"
+  },
+  "book_sales": {
+    "$numberDecimal": "1500"
+  },
+  "magazine_sales": {
+    "$numberDecimal": "2000"
+  },
+  "other_sales": {
+    "$numberDecimal": "100"
+  }
+},{
+  "_id": {
+    "$oid": "5f8d99ac42e804296ce47122"
+  },
+  "month": "May",
+  "monthID": 5,
+  "year": 2020,
+  "revenue": {
+    "$numberDecimal": "3400"
+  },
+  "book_sales": {
+    "$numberDecimal": "1200"
+  },
+  "magazine_sales": {
+    "$numberDecimal": "1900"
+  },
+  "other_sales": {
+    "$numberDecimal": "300"
+  }
+},{
+  "_id": {
+    "$oid": "5f8d99cd42e804296ce47123"
+  },
+  "month": "June",
+  "monthID": 6,
+  "year": 2020,
+  "revenue": {
+    "$numberDecimal": "3700"
+  },
+  "book_sales": {
+    "$numberDecimal": "1400"
+  },
+  "magazine_sales": {
+    "$numberDecimal": "1900"
+  },
+  "other_sales": {
+    "$numberDecimal": "400"
+  }
+}]

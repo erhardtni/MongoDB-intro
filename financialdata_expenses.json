@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "5f89e322ea2334089cade808"
+  },
+  "month": "January",
+  "monthID": 1,
+  "year": 2020,
+  "shippingCosts": {
+    "$numberDecimal": "300"
+  },
+  "overheadCosts": {
+    "$numberDecimal": "400"
+  },
+  "totalCosts": {
+    "$numberDecimal": "700"
+  }
+},{
+  "_id": {
+    "$oid": "5f89e322ea2334089cade809"
+  },
+  "month": "February",
+  "monthID": 2,
+  "year": 2020,
+  "shippingCosts": {
+    "$numberDecimal": "350"
+  },
+  "overheadCosts": {
+    "$numberDecimal": "400"
+  },
+  "totalCosts": {
+    "$numberDecimal": "750"
+  }
+},{
+  "_id": {
+    "$oid": "5f89e322ea2334089cade80a"
+  },
+  "month": "March",
+  "monthID": 3,
+  "year": 2020,
+  "shippingCosts": {
+    "$numberDecimal": "250"
+  },
+  "overheadCosts": {
+    "$numberDecimal": "400"
+  },
+  "totalCosts": {
+    "$numberDecimal": "650"
+  }
+},{
+  "_id": {
+    "$oid": "5f8d99fa42e804296ce47124"
+  },
+  "month": "April",
+  "monthID": 4,
+  "year": 2020,
+  "shippingCosts": {
+    "$numberDecimal": "300"
+  },
+  "overheadCosts": {
+    "$numberDecimal": "400"
+  },
+  "totalCosts": {
+    "$numberDecimal": "700"
+  }
+},{
+  "_id": {
+    "$oid": "5f8d9a1942e804296ce47125"
+  },
+  "month": "May",
+  "monthID": 5,
+  "year": 2020,
+  "shippingCosts": {
+    "$numberDecimal": "350"
+  },
+  "overheadCosts": {
+    "$numberDecimal": "300"
+  },
+  "totalCosts": {
+    "$numberDecimal": "650"
+  }
+},{
+  "_id": {
+    "$oid": "5f8d9a2f42e804296ce47126"
+  },
+  "month": "June",
+  "monthID": 6,
+  "year": 2020,
+  "shippingCosts": {
+    "$numberDecimal": "400"
+  },
+  "overheadCosts": {
+    "$numberDecimal": "250"
+  },
+  "totalCosts": {
+    "$numberDecimal": "650"
+  }
+}]
