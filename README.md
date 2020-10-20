@@ -11,9 +11,8 @@
 Congratulations! You now have a MongoDB cluster, and you can start creating databases.
 
 ## Giving database access to others:
-You can give access to your cluster 2 ways:
-- Whitelisting an IP address via the network access tab under the security menu will allow a user to access and make changes to your database via the MongoDB shell.
-- You can also generate a username and password for access to your database on MongoDB Compass. This can be done under the database access tab under the security menu by clicking "add new database user".
+- You can generate a username and password for someone to access your database. This can be done under the database access tab under the security menu by clicking "add new database user".
+- You can also whitelist certain IP addresses via the network access tab under the security menu. You are also able to allow access from any IP address by clicking "add IP address" and simply adding 0.0.0.0/0.
 
 ## Creating databases and adding data:
 - Creating databases can be done either on the shell or in Atlas.
