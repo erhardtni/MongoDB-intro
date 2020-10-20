@@ -34,6 +34,6 @@ You can give access to your cluster 2 ways:
 
 
 ## Additional resources that may help you:
-https://www.youtube.com/watch?v=VELru-FCWDM MongoDB Complete Crash Course.
-https://www.youtube.com/watch?v=uD3p_rZPBUQ An Introduction to NoSQL databases.
-https://university.mongodb.com/ Free courses provided by MongoDB to help you master and make the most use out of it.
+- https://www.youtube.com/watch?v=VELru-FCWDM MongoDB Complete Crash Course.
+- https://www.youtube.com/watch?v=uD3p_rZPBUQ An Introduction to NoSQL databases.
+- https://university.mongodb.com/ Free courses provided by MongoDB to help you master and make the most use out of it.
