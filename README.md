@@ -1,4 +1,4 @@
-# MongoDB-intro
+# MongoDB intro
 ## How to create a MongoDB cluster:
 1. Create an account on mongodb.com (accounts are free to make).
 2. On mongodb.com, navigate to the "Cloud" dropdown menu, and then click on Atlas.
@@ -31,3 +31,9 @@ You can give access to your cluster 2 ways:
 - Data can be added in the MongoDB shell via db.<collection name>.insert() for a single data entry, or db.<collection name>.insertMany() for multiple data entries.
 - In Atlas, the "insert document" button allows data can be added in either a pre-formatted JSON object, or it can be added in a terminal using Java notation.
 - In Compass, the "add data" button will allow you to either insert a JSON document or upload a .csv or .json file.
+
+
+## Additional resources that may help you:
+https://www.youtube.com/watch?v=VELru-FCWDM MongoDB Complete Crash Course.
+https://www.youtube.com/watch?v=uD3p_rZPBUQ An Introduction to NoSQL databases.
+https://university.mongodb.com/ Free courses provided by MongoDB to help you master and make the most use out of it.
