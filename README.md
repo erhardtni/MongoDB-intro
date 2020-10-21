@@ -34,5 +34,6 @@ Congratulations! You now have a MongoDB cluster, and you can start creating data
 
 ## Additional resources that may help you:
 - https://www.youtube.com/watch?v=VELru-FCWDM MongoDB Complete Crash Course.
+- https://www.youtube.com/watch?v=leNCfU5SYR8 MongoDB Schema Design Best Practices.
 - https://www.youtube.com/watch?v=uD3p_rZPBUQ An Introduction to NoSQL databases.
 - https://university.mongodb.com/ Free courses provided by MongoDB to help you master and make the most use out of it.
